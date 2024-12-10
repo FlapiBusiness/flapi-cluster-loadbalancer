@@ -6,7 +6,7 @@
 - **Ansible**: Automatise le déploiement de la configuration Nginx et d'autres tâches administratives sur les serveurs.
 - **CI/CD (GitHub Actions)**: Automatise le processus de déploiment.
 
-<br /><br />
+<br /><br /><br /><br />
 
 
 ## 📚 Load Balancer External
@@ -30,7 +30,7 @@
     nginx:stable
   ```
 
-<br /><br />
+<br /><br /><br /><br />
 
 
 ## 🚀 Production
